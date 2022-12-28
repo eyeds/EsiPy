@@ -8,7 +8,6 @@ import esipy
 # install requirements
 install_requirements = [
     "requests",
-    "pyswagger >= 0.8.39",
     "six",
     "pytz",
     "python-jose >= 3.0 , < 4"
