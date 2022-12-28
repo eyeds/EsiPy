@@ -7,7 +7,7 @@ mock
 future
 python-memcached
 diskcache
-pyswagger>=0.8.39
+git+https://github.com/eyeds/pyswagger
 requests
 six
 redis
